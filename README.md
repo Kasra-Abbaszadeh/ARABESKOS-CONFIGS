@@ -6,8 +6,9 @@
 
 ## Introduction :
 
-This is a Linux Based fun project, but if you want to bring your computer to the level of arabesque and introduce it to the fathers and mothers of arabesque, this project is for you XD 
+Due to our great interest in Arabesque music and Müslüm  Baba, Ferdi Baba, etc., we decided to immortalize them in a fun and entertaining project.
 
+Thanks to Arabesque lovers.
 
 
 ## ISO Download link : 
