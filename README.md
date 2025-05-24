@@ -1,6 +1,6 @@
 # Arabesk Operation System
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+ ![hippo](https://www.zaytung.com/fotos/gif-muslum.gif)
 
 
 ## Introduction :
@@ -15,5 +15,4 @@ This is a fun project, but if you want to bring your computer to the level of ar
 
 
  
- ![hippo](https://www.zaytung.com/fotos/gif-muslum.gif)
 
