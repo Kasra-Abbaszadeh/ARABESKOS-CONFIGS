@@ -1,6 +1,8 @@
 # Arabesk Operation System
 
  ![hippo](https://www.zaytung.com/fotos/gif-muslum.gif)
+ <img src="https://www.zaytung.com/fotos/gif-muslum.gif" width="50%" height="50%"/>
+
 
 
 ## Introduction :
