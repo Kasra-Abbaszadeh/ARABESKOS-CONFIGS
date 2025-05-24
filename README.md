@@ -10,7 +10,7 @@ Due to our great interest in Arabesque music and Müslüm  Baba, Ferdi Baba, etc
 
 Thanks to Arabesque lovers.
 
-<b> This project is based on Linux(Ubuntu) . </b>
+<b> This project is based on Linux(Ubuntu) </b>
 ذ
 ## ISO Download link : 
 
